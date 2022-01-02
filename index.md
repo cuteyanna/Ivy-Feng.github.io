@@ -19,8 +19,8 @@
 
 ### Projects of Class
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
+- [Research on influential factors of smart phone sales and strategic proposals based on multiple categorical data and text mining](/pdf/创新训练：基于多信息源与文本挖掘的智能手机销量影响因素研究与决策建议.pdf)
+- [USA Housing markets and financial crisis - mean value modeling of American mortgage rates including interference and dynamic regression](/pdf/时间序列：美国房市与金融危机.pdf/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
