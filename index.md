@@ -4,7 +4,7 @@
 
 ### Research
 
-[Project 1 Title](https://tjyj.stats.gov.cn/CN/10.19343/j.cnki.11-1302/c.2021.08.011)
+[Vertical Integrative Analysis of Multi-dimensional Data for Multiple Categorical Response and Its Application](https://tjyj.stats.gov.cn/CN/10.19343/j.cnki.11-1302/c.2021.08.011)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
